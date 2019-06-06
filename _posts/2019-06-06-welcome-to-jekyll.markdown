@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Meraki!"
 date:   2019-06-06 12:59:29 -0400
 categories: jekyll update
 ---
