@@ -1,1 +1,1 @@
-# mer-aki.gituhub.io
+# mer-aki.github.io
